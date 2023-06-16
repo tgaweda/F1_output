@@ -1,0 +1,690 @@
+
+debug
+['Speed: 184', 'Engine RPM: 9575', 'Engine Temperature: 90']
+debug
+['Speed: 184', 'Engine RPM: 9575', 'Engine Temperature: 90']
+debug
+['Speed: 179', 'Engine RPM: 9302', 'Engine Temperature: 90']
+debug
+['Speed: 179', 'Engine RPM: 9302', 'Engine Temperature: 90']
+debug
+['Speed: 179', 'Engine RPM: 9302', 'Engine Temperature: 90']
+debug
+['Speed: 179', 'Engine RPM: 9302', 'Engine Temperature: 90']
+debug
+['Speed: 171', 'Engine RPM: 10752', 'Engine Temperature: 90']
+debug
+['Speed: 171', 'Engine RPM: 10752', 'Engine Temperature: 90']
+debug
+['Speed: 171', 'Engine RPM: 10752', 'Engine Temperature: 90']
+debug
+['Speed: 171', 'Engine RPM: 10752', 'Engine Temperature: 90']
+debug
+['Speed: 167', 'Engine RPM: 10157', 'Engine Temperature: 90']
+debug
+['Speed: 167', 'Engine RPM: 10157', 'Engine Temperature: 90']
+debug
+['Speed: 167', 'Engine RPM: 10157', 'Engine Temperature: 90']
+debug
+['Speed: 167', 'Engine RPM: 10157', 'Engine Temperature: 90']
+debug
+['Speed: 162', 'Engine RPM: 9822', 'Engine Temperature: 90']
+debug
+['Speed: 162', 'Engine RPM: 9822', 'Engine Temperature: 90']
+debug
+['Speed: 162', 'Engine RPM: 9822', 'Engine Temperature: 90']
+debug
+['Speed: 162', 'Engine RPM: 9822', 'Engine Temperature: 90']
+debug
+['Speed: 156', 'Engine RPM: 9488', 'Engine Temperature: 90']
+debug
+['Speed: 156', 'Engine RPM: 9488', 'Engine Temperature: 90']
+debug
+['Speed: 156', 'Engine RPM: 9488', 'Engine Temperature: 90']
+debug
+['Speed: 156', 'Engine RPM: 9488', 'Engine Temperature: 90']
+debug
+['Speed: 152', 'Engine RPM: 9192', 'Engine Temperature: 90']
+debug
+['Speed: 152', 'Engine RPM: 9192', 'Engine Temperature: 90']
+debug
+['Speed: 152', 'Engine RPM: 9192', 'Engine Temperature: 90']
+debug
+['Speed: 152', 'Engine RPM: 9192', 'Engine Temperature: 90']
+debug
+['Speed: 146', 'Engine RPM: 8859', 'Engine Temperature: 90']
+debug
+['Speed: 146', 'Engine RPM: 8859', 'Engine Temperature: 90']
+debug
+['Speed: 146', 'Engine RPM: 8859', 'Engine Temperature: 90']
+debug
+['Speed: 146', 'Engine RPM: 8859', 'Engine Temperature: 90']
+debug
+['Speed: 142', 'Engine RPM: 8579', 'Engine Temperature: 90']
+debug
+['Speed: 142', 'Engine RPM: 8579', 'Engine Temperature: 90']
+debug
+['Speed: 142', 'Engine RPM: 8579', 'Engine Temperature: 90']
+debug
+['Speed: 142', 'Engine RPM: 8579', 'Engine Temperature: 90']
+debug
+['Speed: 136', 'Engine RPM: 8238', 'Engine Temperature: 90']
+debug
+['Speed: 136', 'Engine RPM: 8238', 'Engine Temperature: 90']
+debug
+['Speed: 136', 'Engine RPM: 8238', 'Engine Temperature: 90']
+debug
+['Speed: 136', 'Engine RPM: 8238', 'Engine Temperature: 90']
+debug
+['Speed: 136', 'Engine RPM: 8238', 'Engine Temperature: 90']
+debug
+['Speed: 136', 'Engine RPM: 8238', 'Engine Temperature: 90']
+debug
+['Speed: 131', 'Engine RPM: 7918', 'Engine Temperature: 90']
+debug
+['Speed: 131', 'Engine RPM: 7918', 'Engine Temperature: 90']
+debug
+['Speed: 131', 'Engine RPM: 7918', 'Engine Temperature: 90']
+debug
+['Speed: 131', 'Engine RPM: 7918', 'Engine Temperature: 90']
+debug
+['Speed: 126', 'Engine RPM: 7577', 'Engine Temperature: 90']
+debug
+['Speed: 126', 'Engine RPM: 7577', 'Engine Temperature: 90']
+debug
+['Speed: 126', 'Engine RPM: 7577', 'Engine Temperature: 90']
+debug
+['Speed: 126', 'Engine RPM: 7577', 'Engine Temperature: 90']
+debug
+['Speed: 121', 'Engine RPM: 7241', 'Engine Temperature: 90']
+debug
+['Speed: 121', 'Engine RPM: 7241', 'Engine Temperature: 90']
+debug
+['Speed: 121', 'Engine RPM: 7241', 'Engine Temperature: 90']
+debug
+['Speed: 121', 'Engine RPM: 7241', 'Engine Temperature: 90']
+debug
+['Speed: 119', 'Engine RPM: 7351', 'Engine Temperature: 90']
+debug
+['Speed: 119', 'Engine RPM: 7351', 'Engine Temperature: 90']
+debug
+['Speed: 119', 'Engine RPM: 7351', 'Engine Temperature: 90']
+debug
+['Speed: 119', 'Engine RPM: 7351', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7385', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7385', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7385', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7385', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7435', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7435', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7435', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7435', 'Engine Temperature: 90']
+debug
+['Speed: 121', 'Engine RPM: 7556', 'Engine Temperature: 90']
+debug
+['Speed: 121', 'Engine RPM: 7556', 'Engine Temperature: 90']
+debug
+['Speed: 121', 'Engine RPM: 7556', 'Engine Temperature: 90']
+debug
+['Speed: 121', 'Engine RPM: 7556', 'Engine Temperature: 90']
+debug
+['Speed: 122', 'Engine RPM: 7656', 'Engine Temperature: 90']
+debug
+['Speed: 122', 'Engine RPM: 7656', 'Engine Temperature: 90']
+debug
+['Speed: 122', 'Engine RPM: 7656', 'Engine Temperature: 90']
+debug
+['Speed: 122', 'Engine RPM: 7656', 'Engine Temperature: 90']
+debug
+['Speed: 122', 'Engine RPM: 7585', 'Engine Temperature: 90']
+debug
+['Speed: 122', 'Engine RPM: 7585', 'Engine Temperature: 90']
+debug
+['Speed: 122', 'Engine RPM: 7585', 'Engine Temperature: 90']
+debug
+['Speed: 122', 'Engine RPM: 7585', 'Engine Temperature: 90']
+debug
+['Speed: 121', 'Engine RPM: 7431', 'Engine Temperature: 90']
+debug
+['Speed: 121', 'Engine RPM: 7431', 'Engine Temperature: 90']
+debug
+['Speed: 121', 'Engine RPM: 7431', 'Engine Temperature: 90']
+debug
+['Speed: 121', 'Engine RPM: 7431', 'Engine Temperature: 90']
+debug
+['Speed: 121', 'Engine RPM: 7431', 'Engine Temperature: 90']
+debug
+['Speed: 121', 'Engine RPM: 7431', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7360', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7360', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7360', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7360', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7299', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7299', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7299', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7299', 'Engine Temperature: 90']
+debug
+['Speed: 119', 'Engine RPM: 7271', 'Engine Temperature: 90']
+debug
+['Speed: 119', 'Engine RPM: 7271', 'Engine Temperature: 90']
+debug
+['Speed: 119', 'Engine RPM: 7271', 'Engine Temperature: 90']
+debug
+['Speed: 119', 'Engine RPM: 7271', 'Engine Temperature: 90']
+debug
+['Speed: 118', 'Engine RPM: 7185', 'Engine Temperature: 90']
+debug
+['Speed: 118', 'Engine RPM: 7185', 'Engine Temperature: 90']
+debug
+['Speed: 118', 'Engine RPM: 7185', 'Engine Temperature: 90']
+debug
+['Speed: 118', 'Engine RPM: 7185', 'Engine Temperature: 90']
+debug
+['Speed: 117', 'Engine RPM: 7151', 'Engine Temperature: 90']
+debug
+['Speed: 117', 'Engine RPM: 7151', 'Engine Temperature: 90']
+debug
+['Speed: 117', 'Engine RPM: 7151', 'Engine Temperature: 90']
+debug
+['Speed: 117', 'Engine RPM: 7151', 'Engine Temperature: 90']
+debug
+['Speed: 117', 'Engine RPM: 7151', 'Engine Temperature: 90']
+debug
+['Speed: 117', 'Engine RPM: 7144', 'Engine Temperature: 90']
+debug
+['Speed: 117', 'Engine RPM: 7144', 'Engine Temperature: 90']
+debug
+['Speed: 117', 'Engine RPM: 7144', 'Engine Temperature: 90']
+debug
+['Speed: 117', 'Engine RPM: 7144', 'Engine Temperature: 90']
+debug
+['Speed: 116', 'Engine RPM: 7153', 'Engine Temperature: 90']
+debug
+['Speed: 116', 'Engine RPM: 7153', 'Engine Temperature: 90']
+debug
+['Speed: 116', 'Engine RPM: 7153', 'Engine Temperature: 90']
+debug
+['Speed: 116', 'Engine RPM: 7153', 'Engine Temperature: 90']
+debug
+['Speed: 119', 'Engine RPM: 7419', 'Engine Temperature: 90']
+debug
+['Speed: 119', 'Engine RPM: 7419', 'Engine Temperature: 90']
+debug
+['Speed: 119', 'Engine RPM: 7419', 'Engine Temperature: 90']
+debug
+['Speed: 119', 'Engine RPM: 7419', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7520', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7520', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7520', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7520', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7520', 'Engine Temperature: 90']
+debug
+['Speed: 120', 'Engine RPM: 7520', 'Engine Temperature: 90']
+debug
+['Speed: 121', 'Engine RPM: 7440', 'Engine Temperature: 90']
+debug
+['Speed: 121', 'Engine RPM: 7440', 'Engine Temperature: 90']
+debug
+['Speed: 121', 'Engine RPM: 7440', 'Engine Temperature: 90']
+debug
+['Speed: 121', 'Engine RPM: 7440', 'Engine Temperature: 90']
+debug
+['Speed: 122', 'Engine RPM: 7532', 'Engine Temperature: 90']
+debug
+['Speed: 122', 'Engine RPM: 7532', 'Engine Temperature: 90']
+debug
+['Speed: 122', 'Engine RPM: 7532', 'Engine Temperature: 90']
+debug
+['Speed: 122', 'Engine RPM: 7532', 'Engine Temperature: 90']
+debug
+['Speed: 123', 'Engine RPM: 7793', 'Engine Temperature: 90']
+debug
+['Speed: 123', 'Engine RPM: 7793', 'Engine Temperature: 90']
+debug
+['Speed: 123', 'Engine RPM: 7793', 'Engine Temperature: 90']
+debug
+['Speed: 123', 'Engine RPM: 7793', 'Engine Temperature: 90']
+debug
+['Speed: 124', 'Engine RPM: 7712', 'Engine Temperature: 90']
+debug
+['Speed: 124', 'Engine RPM: 7712', 'Engine Temperature: 90']
+debug
+['Speed: 124', 'Engine RPM: 7712', 'Engine Temperature: 90']
+debug
+['Speed: 124', 'Engine RPM: 7712', 'Engine Temperature: 90']
+debug
+['Speed: 125', 'Engine RPM: 7790', 'Engine Temperature: 90']
+debug
+['Speed: 125', 'Engine RPM: 7790', 'Engine Temperature: 90']
+debug
+['Speed: 125', 'Engine RPM: 7790', 'Engine Temperature: 90']
+debug
+['Speed: 125', 'Engine RPM: 7790', 'Engine Temperature: 90']
+debug
+['Speed: 127', 'Engine RPM: 7971', 'Engine Temperature: 90']
+debug
+['Speed: 127', 'Engine RPM: 7971', 'Engine Temperature: 90']
+debug
+['Speed: 127', 'Engine RPM: 7971', 'Engine Temperature: 90']
+debug
+['Speed: 127', 'Engine RPM: 7971', 'Engine Temperature: 90']
+debug
+['Speed: 128', 'Engine RPM: 7932', 'Engine Temperature: 90']
+debug
+['Speed: 128', 'Engine RPM: 7932', 'Engine Temperature: 90']
+debug
+['Speed: 128', 'Engine RPM: 7932', 'Engine Temperature: 90']
+debug
+['Speed: 128', 'Engine RPM: 7932', 'Engine Temperature: 90']
+debug
+['Speed: 129', 'Engine RPM: 8042', 'Engine Temperature: 90']
+debug
+['Speed: 129', 'Engine RPM: 8042', 'Engine Temperature: 90']
+debug
+['Speed: 129', 'Engine RPM: 8042', 'Engine Temperature: 90']
+debug
+['Speed: 129', 'Engine RPM: 8042', 'Engine Temperature: 90']
+debug
+['Speed: 131', 'Engine RPM: 8129', 'Engine Temperature: 90']
+debug
+['Speed: 131', 'Engine RPM: 8129', 'Engine Temperature: 90']
+debug
+['Speed: 131', 'Engine RPM: 8129', 'Engine Temperature: 90']
+debug
+['Speed: 131', 'Engine RPM: 8129', 'Engine Temperature: 90']
+debug
+['Speed: 131', 'Engine RPM: 8129', 'Engine Temperature: 90']
+debug
+['Speed: 131', 'Engine RPM: 8129', 'Engine Temperature: 90']
+debug
+['Speed: 132', 'Engine RPM: 8162', 'Engine Temperature: 90']
+debug
+['Speed: 132', 'Engine RPM: 8162', 'Engine Temperature: 90']
+debug
+['Speed: 132', 'Engine RPM: 8162', 'Engine Temperature: 90']
+debug
+['Speed: 132', 'Engine RPM: 8162', 'Engine Temperature: 90']
+debug
+['Speed: 133', 'Engine RPM: 8301', 'Engine Temperature: 90']
+debug
+['Speed: 133', 'Engine RPM: 8301', 'Engine Temperature: 90']
+debug
+['Speed: 133', 'Engine RPM: 8301', 'Engine Temperature: 90']
+debug
+['Speed: 133', 'Engine RPM: 8301', 'Engine Temperature: 90']
+debug
+['Speed: 135', 'Engine RPM: 8369', 'Engine Temperature: 90']
+debug
+['Speed: 135', 'Engine RPM: 8369', 'Engine Temperature: 90']
+debug
+['Speed: 135', 'Engine RPM: 8369', 'Engine Temperature: 90']
+debug
+['Speed: 135', 'Engine RPM: 8369', 'Engine Temperature: 90']
+debug
+['Speed: 136', 'Engine RPM: 8418', 'Engine Temperature: 90']
+debug
+['Speed: 136', 'Engine RPM: 8418', 'Engine Temperature: 90']
+debug
+['Speed: 136', 'Engine RPM: 8418', 'Engine Temperature: 90']
+debug
+['Speed: 136', 'Engine RPM: 8418', 'Engine Temperature: 90']
+debug
+['Speed: 137', 'Engine RPM: 8560', 'Engine Temperature: 90']
+debug
+['Speed: 137', 'Engine RPM: 8560', 'Engine Temperature: 90']
+debug
+['Speed: 137', 'Engine RPM: 8560', 'Engine Temperature: 90']
+debug
+['Speed: 137', 'Engine RPM: 8560', 'Engine Temperature: 90']
+debug
+['Speed: 140', 'Engine RPM: 8639', 'Engine Temperature: 90']
+debug
+['Speed: 140', 'Engine RPM: 8639', 'Engine Temperature: 90']
+debug
+['Speed: 140', 'Engine RPM: 8639', 'Engine Temperature: 90']
+debug
+['Speed: 140', 'Engine RPM: 8639', 'Engine Temperature: 90']
+debug
+['Speed: 141', 'Engine RPM: 8681', 'Engine Temperature: 90']
+debug
+['Speed: 141', 'Engine RPM: 8681', 'Engine Temperature: 90']
+debug
+['Speed: 141', 'Engine RPM: 8681', 'Engine Temperature: 90']
+debug
+['Speed: 141', 'Engine RPM: 8681', 'Engine Temperature: 90']
+debug
+['Speed: 142', 'Engine RPM: 8810', 'Engine Temperature: 90']
+debug
+['Speed: 142', 'Engine RPM: 8810', 'Engine Temperature: 90']
+debug
+['Speed: 142', 'Engine RPM: 8810', 'Engine Temperature: 90']
+debug
+['Speed: 142', 'Engine RPM: 8810', 'Engine Temperature: 90']
+debug
+['Speed: 144', 'Engine RPM: 9009', 'Engine Temperature: 90']
+debug
+['Speed: 144', 'Engine RPM: 9009', 'Engine Temperature: 90']
+debug
+['Speed: 144', 'Engine RPM: 9009', 'Engine Temperature: 90']
+debug
+['Speed: 144', 'Engine RPM: 9009', 'Engine Temperature: 90']
+debug
+['Speed: 148', 'Engine RPM: 9213', 'Engine Temperature: 90']
+debug
+['Speed: 148', 'Engine RPM: 9213', 'Engine Temperature: 90']
+debug
+['Speed: 148', 'Engine RPM: 9213', 'Engine Temperature: 90']
+debug
+['Speed: 148', 'Engine RPM: 9213', 'Engine Temperature: 90']
+debug
+['Speed: 148', 'Engine RPM: 9213', 'Engine Temperature: 90']
+debug
+['Speed: 148', 'Engine RPM: 9213', 'Engine Temperature: 90']
+debug
+['Speed: 151', 'Engine RPM: 9371', 'Engine Temperature: 90']
+debug
+['Speed: 151', 'Engine RPM: 9371', 'Engine Temperature: 90']
+debug
+['Speed: 151', 'Engine RPM: 9371', 'Engine Temperature: 90']
+debug
+['Speed: 151', 'Engine RPM: 9371', 'Engine Temperature: 90']
+debug
+['Speed: 154', 'Engine RPM: 9557', 'Engine Temperature: 90']
+debug
+['Speed: 154', 'Engine RPM: 9557', 'Engine Temperature: 90']
+debug
+['Speed: 154', 'Engine RPM: 9557', 'Engine Temperature: 90']
+debug
+['Speed: 154', 'Engine RPM: 9557', 'Engine Temperature: 90']
+debug
+['Speed: 157', 'Engine RPM: 9745', 'Engine Temperature: 90']
+debug
+['Speed: 157', 'Engine RPM: 9745', 'Engine Temperature: 90']
+debug
+['Speed: 157', 'Engine RPM: 9745', 'Engine Temperature: 90']
+debug
+['Speed: 157', 'Engine RPM: 9745', 'Engine Temperature: 90']
+debug
+['Speed: 159', 'Engine RPM: 9840', 'Engine Temperature: 90']
+debug
+['Speed: 159', 'Engine RPM: 9840', 'Engine Temperature: 90']
+debug
+['Speed: 159', 'Engine RPM: 9840', 'Engine Temperature: 90']
+debug
+['Speed: 159', 'Engine RPM: 9840', 'Engine Temperature: 90']
+debug
+['Speed: 160', 'Engine RPM: 9855', 'Engine Temperature: 90']
+debug
+['Speed: 160', 'Engine RPM: 9855', 'Engine Temperature: 90']
+debug
+['Speed: 160', 'Engine RPM: 9855', 'Engine Temperature: 90']
+debug
+['Speed: 160', 'Engine RPM: 9855', 'Engine Temperature: 90']
+debug
+['Speed: 160', 'Engine RPM: 9781', 'Engine Temperature: 90']
+debug
+['Speed: 160', 'Engine RPM: 9781', 'Engine Temperature: 90']
+debug
+['Speed: 160', 'Engine RPM: 9781', 'Engine Temperature: 90']
+debug
+['Speed: 160', 'Engine RPM: 9781', 'Engine Temperature: 90']
+debug
+['Speed: 159', 'Engine RPM: 9731', 'Engine Temperature: 90']
+debug
+['Speed: 159', 'Engine RPM: 9731', 'Engine Temperature: 90']
+debug
+['Speed: 159', 'Engine RPM: 9731', 'Engine Temperature: 90']
+debug
+['Speed: 159', 'Engine RPM: 9731', 'Engine Temperature: 90']
+debug
+['Speed: 158', 'Engine RPM: 9681', 'Engine Temperature: 90']
+debug
+['Speed: 158', 'Engine RPM: 9681', 'Engine Temperature: 90']
+debug
+['Speed: 158', 'Engine RPM: 9681', 'Engine Temperature: 90']
+debug
+['Speed: 158', 'Engine RPM: 9681', 'Engine Temperature: 90']
+debug
+['Speed: 157', 'Engine RPM: 9631', 'Engine Temperature: 90']
+debug
+['Speed: 157', 'Engine RPM: 9631', 'Engine Temperature: 90']
+debug
+['Speed: 157', 'Engine RPM: 9631', 'Engine Temperature: 90']
+debug
+['Speed: 157', 'Engine RPM: 9631', 'Engine Temperature: 90']
+debug
+['Speed: 157', 'Engine RPM: 9631', 'Engine Temperature: 90']
+debug
+['Speed: 157', 'Engine RPM: 9631', 'Engine Temperature: 90']
+debug
+['Speed: 156', 'Engine RPM: 9580', 'Engine Temperature: 90']
+debug
+['Speed: 156', 'Engine RPM: 9580', 'Engine Temperature: 90']
+debug
+['Speed: 156', 'Engine RPM: 9580', 'Engine Temperature: 90']
+debug
+['Speed: 156', 'Engine RPM: 9580', 'Engine Temperature: 90']
+debug
+['Speed: 156', 'Engine RPM: 9527', 'Engine Temperature: 90']
+debug
+['Speed: 156', 'Engine RPM: 9527', 'Engine Temperature: 90']
+debug
+['Speed: 156', 'Engine RPM: 9527', 'Engine Temperature: 90']
+debug
+['Speed: 156', 'Engine RPM: 9527', 'Engine Temperature: 90']
+debug
+['Speed: 155', 'Engine RPM: 9475', 'Engine Temperature: 90']
+debug
+['Speed: 155', 'Engine RPM: 9475', 'Engine Temperature: 90']
+debug
+['Speed: 155', 'Engine RPM: 9475', 'Engine Temperature: 90']
+debug
+['Speed: 155', 'Engine RPM: 9475', 'Engine Temperature: 90']
+debug
+['Speed: 154', 'Engine RPM: 9424', 'Engine Temperature: 90']
+debug
+['Speed: 154', 'Engine RPM: 9424', 'Engine Temperature: 90']
+debug
+['Speed: 154', 'Engine RPM: 9424', 'Engine Temperature: 90']
+debug
+['Speed: 154', 'Engine RPM: 9424', 'Engine Temperature: 90']
+debug
+['Speed: 153', 'Engine RPM: 9363', 'Engine Temperature: 90']
+debug
+['Speed: 153', 'Engine RPM: 9363', 'Engine Temperature: 90']
+debug
+['Speed: 153', 'Engine RPM: 9363', 'Engine Temperature: 90']
+debug
+['Speed: 153', 'Engine RPM: 9363', 'Engine Temperature: 90']
+debug
+['Speed: 152', 'Engine RPM: 9314', 'Engine Temperature: 90']
+debug
+['Speed: 152', 'Engine RPM: 9314', 'Engine Temperature: 90']
+debug
+['Speed: 152', 'Engine RPM: 9314', 'Engine Temperature: 90']
+debug
+['Speed: 152', 'Engine RPM: 9314', 'Engine Temperature: 90']
+debug
+['Speed: 151', 'Engine RPM: 9250', 'Engine Temperature: 90']
+debug
+['Speed: 151', 'Engine RPM: 9250', 'Engine Temperature: 90']
+debug
+['Speed: 151', 'Engine RPM: 9250', 'Engine Temperature: 90']
+debug
+['Speed: 151', 'Engine RPM: 9250', 'Engine Temperature: 90']
+debug
+['Speed: 150', 'Engine RPM: 9198', 'Engine Temperature: 90']
+debug
+['Speed: 150', 'Engine RPM: 9198', 'Engine Temperature: 90']
+debug
+['Speed: 150', 'Engine RPM: 9198', 'Engine Temperature: 90']
+debug
+['Speed: 150', 'Engine RPM: 9198', 'Engine Temperature: 90']
+debug
+['Speed: 144', 'Engine RPM: 9041', 'Engine Temperature: 90']
+debug
+['Speed: 144', 'Engine RPM: 9041', 'Engine Temperature: 90']
+debug
+['Speed: 144', 'Engine RPM: 9041', 'Engine Temperature: 90']
+debug
+['Speed: 144', 'Engine RPM: 9041', 'Engine Temperature: 90']
+debug
+['Speed: 143', 'Engine RPM: 8756', 'Engine Temperature: 90']
+debug
+['Speed: 143', 'Engine RPM: 8756', 'Engine Temperature: 90']
+debug
+['Speed: 143', 'Engine RPM: 8756', 'Engine Temperature: 90']
+debug
+['Speed: 143', 'Engine RPM: 8756', 'Engine Temperature: 90']
+debug
+['Speed: 143', 'Engine RPM: 8756', 'Engine Temperature: 90']
+debug
+['Speed: 143', 'Engine RPM: 8756', 'Engine Temperature: 90']
+debug
+['Speed: 142', 'Engine RPM: 8683', 'Engine Temperature: 90']
+debug
+['Speed: 142', 'Engine RPM: 8683', 'Engine Temperature: 90']
+debug
+['Speed: 142', 'Engine RPM: 8683', 'Engine Temperature: 90']
+debug
+['Speed: 142', 'Engine RPM: 8683', 'Engine Temperature: 90']
+debug
+['Speed: 139', 'Engine RPM: 8542', 'Engine Temperature: 90']
+debug
+['Speed: 139', 'Engine RPM: 8542', 'Engine Temperature: 90']
+debug
+['Speed: 139', 'Engine RPM: 8542', 'Engine Temperature: 90']
+debug
+['Speed: 139', 'Engine RPM: 8542', 'Engine Temperature: 90']
+debug
+['Speed: 138', 'Engine RPM: 8469', 'Engine Temperature: 90']
+debug
+['Speed: 138', 'Engine RPM: 8469', 'Engine Temperature: 90']
+debug
+['Speed: 138', 'Engine RPM: 8469', 'Engine Temperature: 90']
+debug
+['Speed: 138', 'Engine RPM: 8469', 'Engine Temperature: 90']
+debug
+['Speed: 137', 'Engine RPM: 8414', 'Engine Temperature: 90']
+debug
+['Speed: 137', 'Engine RPM: 8414', 'Engine Temperature: 90']
+debug
+['Speed: 137', 'Engine RPM: 8414', 'Engine Temperature: 90']
+debug
+['Speed: 137', 'Engine RPM: 8414', 'Engine Temperature: 90']
+debug
+['Speed: 136', 'Engine RPM: 8332', 'Engine Temperature: 90']
+debug
+['Speed: 136', 'Engine RPM: 8332', 'Engine Temperature: 90']
+debug
+['Speed: 136', 'Engine RPM: 8332', 'Engine Temperature: 90']
+debug
+['Speed: 136', 'Engine RPM: 8332', 'Engine Temperature: 90']
+debug
+['Speed: 135', 'Engine RPM: 8273', 'Engine Temperature: 90']
+debug
+['Speed: 135', 'Engine RPM: 8273', 'Engine Temperature: 90']
+debug
+['Speed: 135', 'Engine RPM: 8273', 'Engine Temperature: 90']
+debug
+['Speed: 135', 'Engine RPM: 8273', 'Engine Temperature: 90']
+debug
+['Speed: 134', 'Engine RPM: 8227', 'Engine Temperature: 90']
+debug
+['Speed: 134', 'Engine RPM: 8227', 'Engine Temperature: 90']
+debug
+['Speed: 134', 'Engine RPM: 8227', 'Engine Temperature: 90']
+debug
+['Speed: 134', 'Engine RPM: 8227', 'Engine Temperature: 90']
+debug
+['Speed: 133', 'Engine RPM: 8154', 'Engine Temperature: 90']
+debug
+['Speed: 133', 'Engine RPM: 8154', 'Engine Temperature: 90']
+debug
+['Speed: 133', 'Engine RPM: 8154', 'Engine Temperature: 90']
+debug
+['Speed: 133', 'Engine RPM: 8154', 'Engine Temperature: 90']
+debug
+['Speed: 132', 'Engine RPM: 8101', 'Engine Temperature: 90']
+debug
+['Speed: 132', 'Engine RPM: 8101', 'Engine Temperature: 90']
+debug
+['Speed: 132', 'Engine RPM: 8101', 'Engine Temperature: 90']
+debug
+['Speed: 132', 'Engine RPM: 8101', 'Engine Temperature: 90']
+debug
+['Speed: 132', 'Engine RPM: 8101', 'Engine Temperature: 90']
+debug
+['Speed: 132', 'Engine RPM: 8101', 'Engine Temperature: 90']
+debug
+['Speed: 131', 'Engine RPM: 8049', 'Engine Temperature: 90']
+debug
+['Speed: 131', 'Engine RPM: 8049', 'Engine Temperature: 90']
+debug
+['Speed: 131', 'Engine RPM: 8049', 'Engine Temperature: 90']
+debug
+['Speed: 131', 'Engine RPM: 8049', 'Engine Temperature: 90']
+debug
+['Speed: 131', 'Engine RPM: 8002', 'Engine Temperature: 90']
+debug
+['Speed: 131', 'Engine RPM: 8002', 'Engine Temperature: 90']
+debug
+['Speed: 131', 'Engine RPM: 8002', 'Engine Temperature: 90']
+debug
+['Speed: 131', 'Engine RPM: 8002', 'Engine Temperature: 90']
+debug
+['Speed: 130', 'Engine RPM: 7966', 'Engine Temperature: 90']
+debug
+['Speed: 130', 'Engine RPM: 7966', 'Engine Temperature: 90']
+debug
+['Speed: 130', 'Engine RPM: 7966', 'Engine Temperature: 90']
+debug
+['Speed: 130', 'Engine RPM: 7966', 'Engine Temperature: 90']
+debug
+['Speed: 129', 'Engine RPM: 7920', 'Engine Temperature: 90']
+debug
+['Speed: 129', 'Engine RPM: 7920', 'Engine Temperature: 90']
+debug
+['Speed: 129', 'Engine RPM: 7920', 'Engine Temperature: 90']
+debug
+['Speed: 129', 'Engine RPM: 7920', 'Engine Temperature: 90']
+debug
+['Speed: 129', 'Engine RPM: 7874', 'Engine Temperature: 90']
+debug
+['Speed: 129', 'Engine RPM: 7874', 'Engine Temperature: 90']
+debug
+['Speed: 129', 'Engine RPM: 7874', 'Engine Temperature: 90']
+debug
+['Speed: 129', 'Engine RPM: 7874', 'Engine Temperature: 90']
+debug
+['Speed: 129', 'Engine RPM: 7874', 'Engine Temperature: 90']
+debug
+['Speed: 128', 'Engine RPM: 7836', 'Engine Temperature: 90']
+debug
+['Speed: 128', 'Engine RPM: 7836', 'Engine Temperature: 90']
+debug
+['Speed: 128', 'Engine RPM: 7836', 'Engine Temperature: 90']
+debug
+['Speed: 128', 'Engine RPM: 7836', 'Engine Temperature: 90']
+debug
